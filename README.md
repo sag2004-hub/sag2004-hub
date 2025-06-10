@@ -10,7 +10,7 @@
 
 <!-- Tagline Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Dev+|+IoT+Explorer+|+10x+Club+CEO&center=true&width=500&height=50&color=ff7675&size=24" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Dev+|+IoT+Explorer+|+10x+Club+VCEO&center=true&width=500&height=50&color=ff7675&size=24" alt="Typing SVG" />
 </p>
 
 <!-- Bio & GIF side-by-side -->
