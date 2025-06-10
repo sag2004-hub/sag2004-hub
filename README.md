@@ -72,35 +72,32 @@
 
 ---
 
-# 📊 GitHub Stats, Trophies, Quotes (One Row):
+# 📊 GitHub Stats (in one row):
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sag2004-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="200"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=sag2004-hub&theme=radical&no-frame=false&no-bg=true&margin-w=4" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sag2004-hub&theme=dark&hide_border=false&layout=compact" height="200"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sag2004-hub&theme=dark&hide_border=false" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sag2004-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200"/>
 </div>
 
 ---
 
-## ✍️ Random Dev Quote
+## 🏆 GitHub Trophies | 💬 Dev Quote | 🚀 Top Repo
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox" alt="Dev Quote" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sag2004-hub&theme=radical&no-frame=false&no-bg=true&margin-w=4" height="200"/>
 
----
+  <div style="margin: 0 20px; display: inline-block;">
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" height="200"/>
+  </div>
 
-### 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sag2004-hub&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
+  <img src="https://github-contributor-stats.vercel.app/api?username=sag2004-hub&limit=5&theme=dark&combine_all_yearly_contributions=true" height="200"/>
+</div>
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=sag2004-hub&icon=7&color=3)](https://visitcount.itsvg.in)
 
----
 
 <!-- Centered Contribution Graph -->
 <div align="center">
