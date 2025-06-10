@@ -72,7 +72,7 @@
 
 ---
 
-# 📊 GitHub Stats (in one row):
+# 📊 GitHub Stats :
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sag2004-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="200"/>
