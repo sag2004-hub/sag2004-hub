@@ -10,7 +10,7 @@
 
 <!-- Tagline Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Dev+|+IoT+Explorer+|+10x+Club+VCEO&center=true&width=500&height=50&color=ff7675&size=24" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Dev+|+IoT+Explorer+|+10x+CN+V-CEO&center=true&width=500&height=50&color=ff7675&size=24" alt="Typing SVG" />
 </p>
 
 <!-- Bio & GIF side-by-side -->
@@ -61,7 +61,8 @@
 <a href="https://fb.com/sagnik.dutta.3781/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagnik.dutta.3781/" height="30" width="40" /></a>
 <a href="https://instagram.com/lyad_khor_engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lyad_khor_engineer" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@hack_hash_bengal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@hack_hash_bengal" height="30" width="40" /></a>
-<a href="https://discord.gg/sagnik2004." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sagnik2004." height="30" width="40" /></a>
+<a href="https://discordapp.com/neophile_engineer." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sagnik2004." height="30" width="40" /></a>
+<a href="https://www.leetcode.com/lkybeqny1k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lkybeqny1k" height="30" width="40" /></a>
 </p>
 
 ---
