@@ -1,6 +1,14 @@
 <!-- Animated Header GIF -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" alt="Your Name | Computer Science Engineer | 10x Club CEO" style="width: 100%; max-width: 1200px; border-radius: 15px;" />
+<div style={{ display: "flex", justifyContent: "center" }}>
+  <img
+    src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif"
+    alt="Profile Banner"
+    style={{
+      width: "100%",
+      maxWidth: "1200px",
+      borderRadius: "15px"
+    }}
+  />
 </div>
 
 <!-- Typing Name SVG -->
