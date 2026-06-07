@@ -11,108 +11,309 @@
   />
 </div>
 
-<!-- Typing Name SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋,+I'm+Sagnik+Dutta&center=true&width=500&height=50&color=FAF4D3&size=35" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24,30&height=200&section=header&text=SAGNIK%20DUTTA&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=⚡%20Full-Stack%20·%20IoT%20·%20Cloud%20·%20GenAI%20·%20VP%20%40%20Coding%20Ninjas%20SNU%20⚡&descAlignY=68&descSize=14&descColor=ccccff&animation=twinkling" width="100%"/>
 </div>
 
-<!-- Tagline Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Dev+|+IoT+Explorer+|+10x+CN+V-CEO&center=true&width=500&height=50&color=ff7675&size=24" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<!-- Bio & GIF side-by-side -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=700&height=55&lines=🚀+Building+the+future%2C+one+commit+at+a+time;💡+VP+%40+Coding+Ninjas+SNU+%7C+Hackathon+Winner;🌐+React+%7C+Node+%7C+AWS+%7C+IoT+%7C+GenAI)](https://github.com/sag2004-hub)
+
+</div>
+
+---
+
+<table align="center">
+<tr>
+<td align="center" width="45%">
+
+<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*X7Q84nkQN1DiFXC-rQLt9g.gif" width="450" alt="Mario GIF">
+
+</td>
+
+<td align="center" width="55%">
+
 <table>
-  <tr>
-    <td width="55%" valign="top">
-      <h3 align="left">🚀 Tech Enthusiast | Emerging CEO | Full-Stack Developer & Hardware Tinkerer</h3>
-      <p align="left">
-        I’m a Computer Science Engineering student at Sister Nivedita University, currently in my third year, passionate about coding, innovation, and leadership. <br><br>
-        As the Emerging CEO of the 10x Club Coding Ninja Community, I drive tech excellence and mentor aspiring developers. <br><br>
-        💻 Skills & Expertise: <br>
-        ▸ Programming: C, C++, Python, JavaScript, PHP <br>
-        ▸ Web Dev: React.js, HTML/CSS, Django, Flask <br>
-        ▸ Database & Cloud: MySQL, MongoDB, AWS, Docker <br>
-        ▸ AI/ML Tools: Google Colab, Jupyter Notebook <br>
-        ▸ Mobile & UI/UX: Flutter, Figma, Canva <br>
-        ▸ Hardware & IoT: Arduino Uno, Embedded Systems <br><br>
-        🔧 Building the future, one line of code at a time. <br>
-        📫 Let’s connect & collaborate! <br><br>
-        ✅ Concise yet impactful – Highlights your roles, skills, and ambitions. <br>
-        ✅ Structured readability – Bullet points make it easy to scan. <br>
-        ✅ Professional + Engaging – Balances achievements with personality. <br>
-        ✅ SEO-friendly – Includes keywords (React, Python, AWS, etc.) for visibility
-      </p>
-    </td>
-    <td width="45%" align="center">
-      <img src="https://i.redd.it/n8agw6z2smyb1.gif" 
-       width="90%" 
-       style="border-radius: 10px;" 
-       alt="coding gif" />
-    </td>
-  </tr>
+<tr>
+<td align="center">
+<a href="https://linkedin.com/in/sagnik-dutta-367717261">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</td>
+
+<td align="center">
+<a href="mailto:sagnikdutta408@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</td>
+
+<td align="center">
+<a href="https://sagnik-dutta-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://github.com/sag2004-hub">
+<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.leetcode.com/lkybeqny1k">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
+</td>
+
+<td align="center">
+<a href="https://twitter.com/dutt57893">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+</a>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
 </table>
 
 ---
 
-- 🔭 I’m currently working on [Vanish - The Ultimate Fire Safety](https://vanish-ytwu.onrender.com)
-- 🌱 I’m currently learning **probably machine learning !! :)**
-- 💬 Ask me about **IoT, Web Dev ♥**
-- 📫 How to reach me: **sagnikdutta408@gmail.com**
-- ⚡ Fun fact: **Messy coder, but logical compiler.**
+## `> Who am i :)`
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+```yaml
+name        : Sagnik Dutta
+location    : Kolkata, West Bengal 🇮🇳
+degree      : B.Tech CSE — 3rd Year
+university  : Sister Nivedita University
+cgpa        : 9.00  |  sgpa: 9.04
+role        : Vice President @ Coding Ninjas SNU
+stack       : React · Node · AWS · IoT · GenAI
+```
+
+</td>
+<td width="85%" align="center" valign="middle">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sag2004-hub&theme=tokyonight&hide_border=true" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🤝 Connect with me
+## `> tech --stack`
 
-<p align="left">
-<a href="https://twitter.com/dutt57893" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dutt57893" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sagnik-dutta-367717261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagnik-dutta-367717261" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sagnik-dutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sagnik-dutta" height="30" width="40" /></a>
-<a href="https://fb.com/sagnik.dutta.3781/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagnik.dutta.3781/" height="30" width="40" /></a>
-<a href="https://instagram.com/lyad_khor_engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lyad_khor_engineer" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@hack_hash_bengal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@hack_hash_bengal" height="30" width="40" /></a>
-<a href="https://discordapp.com/neophile_engineer." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sagnik2004." height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lkybeqny1k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lkybeqny1k" height="30" width="40" /></a>
-</p>
+<table>
+<tr>
+<td valign="top">
+
+<table>
+<tr>
+<td width="100" align="center"><sub><b>🟡 Languages</b></sub></td>
+<td>
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td align="center"><sub><b>🔵 Frontend</b></sub></td>
+<td>
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center"><sub><b>🟢 Backend</b></sub></td>
+<td>
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center"><sub><b>🟠 DB & Cloud</b></sub></td>
+<td>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center"><sub><b>🔴 AI / ML</b></sub></td>
+<td>
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center"><sub><b>⚙️ Hardware</b></sub></td>
+<td>
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-0288D1?style=flat-square&logo=internetofthings&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center"><sub><b>🛠️ Tools</b></sub></td>
+<td>
+
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+</td>
+<td align="center" valign="middle" width="240">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+## `> Experience`
+<img width="1440" height="796" alt="image" src="https://github.com/user-attachments/assets/42900dd2-9d31-49fc-bd9d-8a766f2ce98a" />
 
 
 ---
 
-# 📊 GitHub Stats :
+## 🏆 `hackathons` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👑 `leadership`
+
+<table>
+<tr>
+<td width="48%" valign="top">
+
+| 🎯 Event | 🏅 Result |
+|---|---|
+| 🤖 InnoFusion 2025 | 🥇 **Winner** — Fire Robot |
+| 🚗 Visteon Hackathon 2025 | 🥉 **Top 3** Finish |
+| 🔥 GDG Solution Challenge | Vanish — Fire Safety App |
+| 📚 SIH 2025 — AspirePath | 🏅 Top 33 Intracollege |
+| 🌾 SIH 2024 — Farm-Market | 🏅 Top 40 Intracollege |
+| ⛓️ Build in Aptos — Kolkata | "BartaOne" |
+| 🏝️ OnChain Island — 2:47 | Blockchain Project |
+| 🌱 Hackfest SAP 2k25 | EcoXchange |
+
+</td>
+<td width="52%" valign="top">
+
+| 🎖️ Role | 🏢 Org | 📅 Period |
+|---|---|---|
+| 🟢 **VP** | Coding Ninjas · SNU | Aug 2025 – Now |
+| 🟢 **Ambassador** | Repository | Jul 2025 – Now |
+| 🟢 **Ambassador** | GSSoC | Jun – Dec 2025 |
+| ⚫ Contributor | GSSoC | May – Aug 2024 |
+| ⚫ Volunteer | WiT Dreamin' · Salesforce | Oct 2024 |
+| ⚫ Volunteer | IIC Innovation Utsab | Jan 2024 |
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> github --stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sag2004-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="200"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sag2004-hub&theme=dark&hide_border=false" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sag2004-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200"/>
-</div>
 
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sag2004-hub&theme=tokyo-night&hide_border=true&area=true&custom_title=Sagnik's%20Contribution%20Graph" />
+
+</div>
 ---
 
-## 🏆 GitHub Trophies | 💬 Dev Quote | 🚀 Top Repo
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sag2004-hub&theme=radical&no-frame=false&no-bg=true&margin-w=4" height="200"/>
-
-  <div style="margin: 0 20px; display: inline-block;">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" height="200"/>
-  </div>
-
-  <img src="https://github-contributor-stats.vercel.app/api?username=sag2004-hub&limit=5&theme=dark&combine_all_yearly_contributions=true" height="200"/>
-</div>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=sag2004-hub&icon=7&color=3)](https://visitcount.itsvg.in)
 
 
 <!-- Centered Contribution Graph -->
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" style="max-width: 100%;">
+</div>
+
+---
+
+## 📜 `certifications`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+| 🏅 Certificate | 🏢 Issuer |
+|---|---|
+| Generative AI: Intro & Applications | IBM |
+| AWS DevOps & Cloud Infrastructure | Employability.life |
+| Foundations of DSA | Univ. of Colorado Boulder |
+| Introduction to DevOps | IBM |
+
+</td>
+<td width="50%" valign="top">
+
+| 🏅 Certificate | 🏢 Issuer |
+|---|---|
+| React.js Web Development | Oxytocin Ventures |
+| Design Thinking | Univ. of Virginia |
+| Hardware & OS Foundations | Illinois Tech |
+| Operating Systems: Concurrency | Codio |
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+`🌍 English (Professional)` &nbsp;·&nbsp; `🇧🇩 Bengali (Native)` &nbsp;·&nbsp; `🇮🇳 Hindi (Professional)` &nbsp;·&nbsp; `🇪🇸 Spanish (Proficient)`
+
+<br/>
+
+🥈 4th — Shark Tank, THK Jain College (2024) &nbsp;·&nbsp; 🥉 3rd — Stress Interview (2023) &nbsp;·&nbsp; ⭐ LIC Student of the Year (2014)
+
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=500&color=A855F7&center=true&vCenter=true&width=500&lines=%22Messy+coder%2C+but+a+logical+compiler.%22)](https://github.com/sag2004-hub)
+
+<br/>
+
+[![](https://visitcount.itsvg.in/api?id=sag2004-hub&icon=7&color=3)](https://visitcount.itsvg.in)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=100&section=footer&animation=twinkling" width="100%"/>
+
 </div>
