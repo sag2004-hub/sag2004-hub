@@ -27,7 +27,7 @@
 <tr>
 <td align="center" width="35%">
 
-<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*X7Q84nkQN1DiFXC-rQLt9g.gif" width="450" alt="Mario GIF">
+<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*X7Q84nkQN1DiFXC-rQLt9g.gif" width="250" alt="Mario GIF">
 
 </td>
 
